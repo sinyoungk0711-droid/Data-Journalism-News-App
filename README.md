@@ -6,7 +6,7 @@
 
 ## 뉴스앱 열기
 
-**[▶ 배포된 뉴스앱 열기](https://climate-cost-news-ez.moonlitcondor1.chatgpt.site/)**
+
 
 기존 배포본은 소유자 비공개 사이트여서 로그인이 필요할 수 있습니다.
 
